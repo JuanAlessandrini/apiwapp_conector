@@ -1,0 +1,26 @@
+{
+    "name": "juanalessandrini/apiwapp_conector",
+    "description": "Script php to connect apiwapp.com.ar services",
+    "type": "library",
+    "require": {
+        "doctrine/orm": "^2.14",
+        "symfony/http-client": "5.4.*",
+        "symfony/framework-bundle": "5.4.*"
+    },
+    "require-dev": {
+        "symfony/maker-bundle": "^1.43"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Juanalessandrini\\ApiwappConector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Alessandrini",
+            "email": "jas.softwares@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
