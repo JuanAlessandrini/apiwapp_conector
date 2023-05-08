@@ -5,7 +5,7 @@
     "require": {
         "doctrine/orm": "^2.14",
         "symfony/http-client": "5.2.*",
-        "symfony/framework-bundle": "5.4.*"
+        "symfony/framework-bundle": "5.2.*"
     },
     "require-dev": {
         "symfony/maker-bundle": "^1.43"
