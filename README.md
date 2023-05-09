@@ -7,7 +7,13 @@ Script php to connect apiwapp.com.ar services
 ```bash
 composer install juanalessandrini/apiwapp_conector
 ```    
+<li>Goto ApiWapp.com.ar and get the API token.</li>
+<li>Replace token on .env file </li>
 
+```yaml
+    // vendor/juanalessandrini/apiwapp_conector/.env
+    APIWAPP_TOKEN=yourToken
+```
 <li>Add library reference</li>
 
 ```php
