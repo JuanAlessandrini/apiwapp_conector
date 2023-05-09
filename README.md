@@ -4,6 +4,12 @@ Script php to connect apiwapp.com.ar services
 <ol>
     <li>Add library reference</li>
 
+```bash
+composer install juanalessandrini/apiwapp_conector
+```    
+
+    <li>Add library reference</li>
+
 ```php
 use Apiwapp\Conector;
 ```
