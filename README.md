@@ -17,7 +17,7 @@ composer install juanalessandrini/apiwapp_conector
 <li>Add library reference</li>
 
 ```php
-use Apiwapp\Conector;
+use Juanalessandrini\Apiwapp\Conector\ApiWappConector;
 ```
 
 <li>Create class instance:</li>

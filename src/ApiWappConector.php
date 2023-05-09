@@ -1,6 +1,6 @@
 <?php
 
-namespace Apiwapp\Conector;
+namespace Juanalessandrini\Apiwapp\Conector;
 
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Config\Definition\Exception\Exception;
