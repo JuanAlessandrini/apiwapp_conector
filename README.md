@@ -8,11 +8,12 @@ Script php to connect apiwapp.com.ar services
 composer install juanalessandrini/apiwapp_conector
 ```    
 
-    <li>Add library reference</li>
+<li>Add library reference</li>
 
 ```php
 use Apiwapp\Conector;
 ```
+
 <li>Create class instance:</li>
 
 ```php
